@@ -1,0 +1,48 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+
+# FastAPI specific files
+*.log
+*.sqlite3
+*.db
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment variables
+.env
+
+# IDE / Editor directories
+.vscode/
+.idea/
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
