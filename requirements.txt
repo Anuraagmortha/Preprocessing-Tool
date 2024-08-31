@@ -1,0 +1,6 @@
+fastapi==0.95.0
+pydantic==2.5.0
+pandas==2.0.3
+spellchecker==0.5.0
+python-multipart==0.0.6
+uvicorn==0.22.0
